@@ -13,5 +13,6 @@ public class Main {
     System.out.println("Wados");
     System.out.println("Dmitry");
     System.out.println("Natalya");
+    System.out.println("Team");
   }
 }
