@@ -8,8 +8,10 @@ public class Main {
     for (int i = 0; i < integers.length; i++) {
       int i1 = r.nextInt(10);
       System.out.println(i1);
-
     }
-    System.out.println("Hello world!");
+    System.out.println("Halle");
+    System.out.println("Wados");
+    System.out.println("Dmitry");
+    System.out.println("Natalya");
   }
 }
