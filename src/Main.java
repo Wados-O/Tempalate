@@ -14,5 +14,6 @@ public class Main {
     System.out.println("Dmitry");
     System.out.println("Natalya");
     System.out.println("Команда");
+    System.out.println("Что-то пишу");
   }
 }
